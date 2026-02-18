@@ -34,7 +34,7 @@ A RESTful API for task management with email notifications, report generation, a
 ### 1. Clone and Install Dependencies
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/BirjuSavani/task-workflow.git)
 cd task-workflow-api
 npm install
 ```
